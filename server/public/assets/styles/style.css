@@ -1,0 +1,61 @@
+.header {
+    height: 300px;
+    background-color: #0086b3;
+}
+
+.introduction {
+    width: 850px;
+    float: left;
+    margin-left: 50px;
+}
+
+.abbey {
+    height: 250px;
+    float: right;
+    margin-top: 25px;
+    margin-right: 90px;
+}
+
+.menu {
+    height: 300px;
+    background-color: #a94442;
+}
+
+.minneapolis {
+    width: 33%;
+    float: left;
+}
+
+.elsewhere {
+    width: 33%;
+    float: right;
+}
+
+.scotland {
+    width: 33%;
+    float: right;
+}
+
+.minntext, .elsetext, .scottext {
+    text-align: center;
+    color: white;
+}
+
+.minnimage, .elseimage, .scotimage {
+    width: 44%;
+    margin-left: 29%;
+    height: 142px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.footer {
+    height: 250px;
+    background-color: #3c763d;
+}
+
+.email {
+    margin-top: 0;
+}
