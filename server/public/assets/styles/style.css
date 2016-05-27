@@ -57,5 +57,11 @@ a:hover {
 }
 
 .email {
+    padding-top: 25px;
+    padding-left: 25px;
     margin-top: 0;
+}
+
+.pinterest {
+    padding-left: 25px;
 }
